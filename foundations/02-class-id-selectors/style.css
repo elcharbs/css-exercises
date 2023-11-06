@@ -2,3 +2,8 @@ p {
     background-color: #ffbdec;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
